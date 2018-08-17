@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-/*package com.crownexponent.page;
+package com.crownexponent.page;
 
 import com.crownexponent.scraper.model.PageItem;
 import java.util.ArrayList;
@@ -15,7 +15,7 @@ import java.util.List;
  * @author ISSAH OJIVO
  */
 
-/*public class Test {
+public class Test {
     static List<PageItem> items = new ArrayList<>();
     public static void main(String[]args){
         List<PageItem> p;
@@ -35,4 +35,3 @@ import java.util.List;
       }
     }
 }
-*/
